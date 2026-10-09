@@ -1,0 +1,13 @@
+# 第一階段:載入與理解資料所需的套件
+pandas==2.2.3
+jupyter==1.1.1
+notebook==7.3.2
+
+# 第二階段:單一傳球 play 的場上快照繪圖
+matplotlib==3.11.2
+
+# 第五階段:Voronoi 控制區(用 cKDTree 做最近鄰查詢)
+scipy==1.18.1
+
+# 第九階段:互動介面(下拉選 play 即時出卡)
+ipywidgets==8.1.9
